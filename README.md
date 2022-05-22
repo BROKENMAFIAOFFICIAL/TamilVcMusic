@@ -38,9 +38,9 @@ Click the below button to watch the video tutorial on deploying
 
 ### குழுக்கள் மற்றும் ஆதரவு:
 
-[![](https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d)](https://t.me/TamilBots)
+[![](https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d)](https://t.me/MUSIC_BOT_VC)
 
-[![](https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d)](https://t.me/TamilSupport)
+[![](https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d)](https://t.me/MUSIC_BOT_VC_OFFICIAL)
 
 
 ### More 👨🏻‍💻
@@ -147,7 +147,7 @@ $ python3 -m TamilBots
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@TamiliniBot](https://t.me/TamiliniBot) as Channel admin with full perms
+ 3. Add [@Khalnayak_Munda](https://t.me/Khalnayak_Munda) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -163,7 +163,7 @@ If you donlt like to play in linked channel:
 
 </details>
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots)
+## Made with ❤️ By [🇸‌ｉｌｖｅｒ 🇰‌ｉｓｓｅｒ](https://t.me/MUSIC_BOT_VC_OFFICIAL)
 
 ### Credits
 #### Special Credits
