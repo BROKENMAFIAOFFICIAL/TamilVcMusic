@@ -1,6 +1,6 @@
-# TamilVcMusic
+#   🇸‌ｉｌｖｅｒ 🇰‌ｉｓｓｅｒ Music
 
-<h1 align="centre">🌟TamilVCMusicBot🌟</h1>
+<h1 align="centre">🌟🇸‌ｉｌｖｅｒ 🇰‌ｉｓｓｅｒ MusicBot🌟</h1>
 
 ## Give your 🔥😂
 
