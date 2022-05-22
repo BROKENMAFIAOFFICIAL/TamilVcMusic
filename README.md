@@ -12,7 +12,7 @@ Before clicking on deploy to heroku just click on fork and star just below
     
   </a>
   <a href="https://github.com/TamilBots/TamilVCMusic">
-    <img src="https://img.shields.io/github/stars/TamilBots/TamilVCMusic?style=social">
+    <img src="https://img.shields.io/github/stars/BROKENMAFIAOFFICIAL?style=social">
   </a>
 </p>
 
